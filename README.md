@@ -4,10 +4,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a Computer Science Engineering sophomore at IIIT Dharwad, Karnataka .\
-🌱 &nbsp;I'm a full stack Web Developer with knowledge in Machine Learning and Artificial Intelligence .\
+🎓 &nbsp;I am pursuing MSCS from Northeastern University, Boston.\
+🌱 &nbsp;I am a Full Stack Developer with knowledge in Machine Learning and Artificial Intelligence .\
 ✍️ &nbsp;I pursue photography and play Lawn-Tennis in my free time.\
-✉️ &nbsp;You can shoot me an email at nihar.sanda@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at sanda.n@northeastern.edu! I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
