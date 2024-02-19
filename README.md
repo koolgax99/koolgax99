@@ -46,6 +46,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/nihar-sanda-07ab6118b/"><img src="https://img.shields.io/badge/-Nihar%20Sanda-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nihar.sanda@gmail.com"><img src="https://img.shields.io/badge/-nihar.sanda@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/n_sanda"><img src="https://img.shields.io/badge/-n_sanda-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/nihar.sanda"><img src="https://img.shields.io/badge/-Nihar Sanda-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
