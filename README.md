@@ -5,20 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;MSCS at Northeastern University, Boston.\
-🧠 &nbsp;Full Stack Developer working on LLMs, knowledge graphs, and AI agents.\
-🔬 &nbsp;Currently building [INDRA CoGEx](https://github.com/koolgax99/indra_cogex) context graphs and an [MCP server](https://github.com/koolgax99/indra_agent) that lets agents query them.\
 ✍️ &nbsp;Photography and Lawn Tennis in my free time.\
 ✉️ &nbsp;Reach me at sanda.n@northeastern.edu — I'll respond as soon as I can.
-
-### 🔭 &nbsp;What I'm Working On
-
-| Project | What it does |
-| --- | --- |
-| [indra_agent](https://github.com/koolgax99/indra_agent) | MCP server around INDRA CoGEx so AI agents can talk to the knowledge graph |
-| [indra_cogex](https://github.com/koolgax99/indra_cogex) | INDRA Context Graph Extension |
-| [semantic-data-curation](https://github.com/koolgax99/semantic-data-curation) | Semantic curation pipelines over research data |
-| [graphrag-automation](https://github.com/koolgax99/graphrag-automation) | Automating GraphRAG pipelines |
-| [llm-graph-builder](https://github.com/koolgax99/llm-graph-builder) | Neo4j graph construction from unstructured data using LLMs |
 
 ### 🛠 &nbsp;Tech Stack
 
